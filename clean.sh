@@ -1,0 +1,1 @@
+rm -r shopping_bill_*
